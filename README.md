@@ -9,7 +9,7 @@ O primeiro desafio é o Bin2Dec, um aplicativo que converte um número binário 
 ## Dia 2: Border Radius Previewer
 Aplicativo para ver e copiar a propriedade border-radius do Styled Components.  
 [Link do GitHub](https://github.com/VictorBorzaquel/BorderRadiusPreviewer)  
-<img src="./assets/BorderRadiusPreviewer.gif" width="200" />
+<img src="./assets/BorderRadiusPreview.gif" width="200" />
 
 ## Dia 3: Calculator
 Hoje desenvolvi uma calculadora utilizando a formatação em I18n.  
