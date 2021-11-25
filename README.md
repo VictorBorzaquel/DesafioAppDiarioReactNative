@@ -1,5 +1,6 @@
 # Desafio App diario React Native
-Desafio de 88 dias onde estou criando 1 aplicativo todos os dias.
+<img src="./assets/DesafioAppDiarioReactNative.png" />
+Desafio de 88 dias onde estou criando 1 aplicativo todos os dias.  
 
 ## Dia 1: Bin2Dec
 O primeiro desafio é o Bin2Dec, um aplicativo que converte um número binário para decimal.  
