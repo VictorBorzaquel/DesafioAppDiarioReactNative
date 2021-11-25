@@ -23,7 +23,7 @@ Hoje fiz um aplicativo de cronômetro para eventos importantes, você pode cadas
 Fiz um aplicativo para ajudar quem está começando a trabalhar com UI / UX design a entender melhor as cores RGB.  
 O aplicativo faz pequenas alterações nas cores para o usuário poder ver qual é a diferença que a mudança de cada cor faz, além de ver cores parecidas para usar na criação de interfaces.  
 Para utilizar o aplicativo, basta colocar a intensidade de Vermelho, Verde e Azul, e também colocar a velocidade da mudança de cada cor.  
-[Link do Repositório](https://github.com/VictorBorzaquel/ColorCycle)  
+[Link do Repositório](https://github.com/VictorBorzaquel/ColorCycle/blob/main/github/ColorCycle.gif)  
 <img src="./assets/ColorCycle.gif" width="200" />
 
 ## Dia 5: Cause Effect
