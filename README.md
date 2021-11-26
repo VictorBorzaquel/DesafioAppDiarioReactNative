@@ -2,6 +2,11 @@
 <img src="./assets/DesafioAppDiarioReactNative.png" />
 Desafio de 88 dias onde estou criando 1 aplicativo todos os dias.  
 
+## Dia 10: Word Frequency
+Esse aplicativo você consegue ver em uma lista ou em um gráfico a frequência das palavras em um texto, ou seja, calcula quantas palavras repetidas tem no texto.  
+[Link do Repositório](https://github.com/VictorBorzaquel/WordFrequency)  
+<img src="https://github.com/VictorBorzaquel/WordFrequency/blob/main/github/WordFrequency.gif" width="200" />
+
 ## Dia 9: Real Para Centavos
 Contar o troco sempre é um desafio, esse aplicativo resolve esse problema e conta quantas moedas você tem que dar de troco ao cliente.  
 [Link do Repositório](https://github.com/VictorBorzaquel/RealParaCentavos)  
