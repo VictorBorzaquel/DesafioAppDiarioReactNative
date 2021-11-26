@@ -3,7 +3,7 @@
 Desafio de 88 dias onde estou criando 1 aplicativo todos os dias.  
 
 ## Dia 10: Word Frequency
-Esse aplicativo você consegue ver em uma lista ou em um gráfico a frequência das palavras em um texto, ou seja, calcula quantas palavras repetidas tem no texto.  
+Esse aplicativo você consegue ver em  lista e gráfico a frequência das palavras em um texto, ou seja, calcula quantas palavras repetidas tem no texto.  
 [Link do Repositório](https://github.com/VictorBorzaquel/WordFrequency)  
 <img src="https://github.com/VictorBorzaquel/WordFrequency/blob/main/github/WordFrequency.gif" width="200" />
 
