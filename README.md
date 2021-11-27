@@ -2,6 +2,14 @@
 <img src="./assets/DesafioAppDiarioReactNative.png" />
 Desafio de 88 dias onde estou criando 1 aplicativo todos os dias.  
 
+## Dia 11: Dynamic CSS Variables
+Fiz um sistema de rotas de autenticação e também uma validação dos campos de login, que informa quando o usuário digita a senha ou o nome errado.  
+
+Utilizei o hook Context do React para fazer o sistema de rotas autenticadas.  
+
+[Link do Repositório](https://github.com/VictorBorzaquel/DynamicCSSVariables)  
+<img src="https://github.com/VictorBorzaquel/DynamicCSSVariables/blob/main/github/DynamicCSSVariables.gif" width="200" />
+
 ## Dia 10: Word Frequency
 Esse aplicativo você consegue ver em  lista e gráfico a frequência das palavras em um texto, ou seja, calcula quantas palavras repetidas tem no texto.  
 [Link do Repositório](https://github.com/VictorBorzaquel/WordFrequency)  
