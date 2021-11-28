@@ -2,6 +2,15 @@
 <img src="./assets/DesafioAppDiarioReactNative.png" />
 Desafio de 88 dias onde estou criando 1 aplicativo todos os dias.  
 
+## Dia 12: Lorem Ipsum Generator
+Fiz um gerador de Loren Ipsum para ajudar os designers que querem ver como os seus layouts vão ficar com o texto, mas ainda não tem o texto final. 
+
+Com ele você escolhe a quantidade de parágrafos que o texto vai ter, e automaticamente é gerado um Loren Ipsum.  
+
+[Link do Repositório](https://github.com/VictorBorzaquel/LoremIpsumGenerator)  
+<img src="https://github.com/VictorBorzaquel/LoremIpsumGenerator/blob/main/github/LoremIpsumGenerator.gif" width="200" />
+
+
 ## Dia 11: Dynamic CSS Variables
 Fiz um sistema de rotas de autenticação e também uma validação dos campos de login, que informa quando o usuário digita a senha ou o nome errado.  
 
