@@ -2,6 +2,14 @@
 <img src="./assets/DesafioAppDiarioReactNative.png" />
 Desafio de 88 dias onde estou criando 1 aplicativo todos os dias.  
 
+## Dia 14: Weather App
+Fiz um aplicativo para você conseguir ver como está o tempo em todas as cidades do mundo.  
+
+Utilizei a api AccuWeather para pegar a previsão do tempo.  
+
+[Link do Repositório](https://github.com/VictorBorzaquel/WeatherApp)  
+<img src="https://github.com/VictorBorzaquel/WeatherApp/blob/main/github/WeatherApp.gif" width="200" />
+
 ## Dia 13: Random Meal Generator
 Você já ficou abrindo e fechando a geladeira, pois não conseguia decidir o que comer?  
 
