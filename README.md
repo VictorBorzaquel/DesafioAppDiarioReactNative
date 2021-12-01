@@ -3,7 +3,7 @@
 Desafio de 88 dias onde estou criando 1 aplicativo todos os dias.  
 
 ## Dia 15: Random Number Generator
-Aplicativo para fazer sorteios gerando um número aleatório entre dois números.  
+Aplicativo para fazer sorteios gerando um número aleatório entre um número mínimo e máximo.  
 
 Utilizei o date-fns para formatar a data e o i18n-js para formatar o número.  
 
