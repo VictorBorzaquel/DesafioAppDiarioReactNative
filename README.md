@@ -7,8 +7,8 @@ Aplicativo para fazer sorteios gerando um número aleatório entre dois números
 
 Utilizei o date-fns para formatar a data e o i18n-js para formatar o número.  
 
-[Link do Repositório](https://github.com/VictorBorzaquel/RandomNumberGenerator)  
-<img src="https://github.com/VictorBorzaquel/RandomNumberGenerator/blob/main/github/RandomNumberGenerator.gif" width="200" />
+[Link do Repositório](https://github.com/victorborzaquel/RandomNumberGenerator)  
+<img src="https://github.com/victorborzaquel/RandomNumberGenerator/blob/main/github/RandomNumberGenerator.gif" width="200" />
 
 ## Dia 14: Weather App
 Fiz um aplicativo para você conseguir ver como está o tempo em todas as cidades do mundo.  
