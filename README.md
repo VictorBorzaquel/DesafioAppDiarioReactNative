@@ -2,6 +2,13 @@
 <img src="./assets/DesafioAppDiarioReactNative.png" />
 Desafio de 88 dias onde estou criando 1 aplicativo todos os dias.  
 
+## Dia 17: Hello
+Criei um aplicativo que pode pegar automaticamente o seu IP ou você pode especificar um IP, e com base no IP pega as informações da localização, e também fala olá na linguá nativa do local.  
+
+Utilizei a API hellosalut para pegar a saudação do idioma do local e também a API ip-api para pegar todas as informações.  
+[Link do Repositório](https://github.com/victorborzaquel/Hello)  
+<img src="https://github.com/victorborzaquel/Hello/blob/main/github/Hello.gif" width="200" />
+
 ## Dia 16: Vigenere Cipher
 Criei meu primeiro sistema de criptografia, utilizei o método Vigenere, onde é possível criptografar e descriptografar frases com base em uma palavra-chave.  
 
