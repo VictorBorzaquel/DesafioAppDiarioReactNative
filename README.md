@@ -2,6 +2,13 @@
 <img src="./assets/DesafioAppDiarioReactNative.png" />
 Desafio de 88 dias onde estou criando 1 aplicativo todos os dias.  
 
+## Dia 18: True Or False
+Aplicativo feito para quem quer entender como a comparação do JavaScript funciona.  
+Basta digitar o valor, escolher o tipo de dado e o operador que deseja usar na comparação.  
+
+[Link do Repositório](https://github.com/victorborzaquel/TrueOrFalse)  
+<img src="https://github.com/victorborzaquel/TrueOrFalse/blob/main/github/TrueOrFalse.gif" width="200" />
+
 ## Dia 17: Hello
 Criei um aplicativo que pode pegar automaticamente o seu IP ou você pode especificar um IP, e com base no IP pega as informações da localização, e também fala olá na linguá nativa do local.  
 
