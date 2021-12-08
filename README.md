@@ -2,6 +2,14 @@
 <img src="./assets/DesafioAppDiarioReactNative.png" />
 Desafio de 88 dias onde estou criando 1 aplicativo todos os dias.  
 
+## Dia 19: GitHub Status
+Aplicativo para verificar se todas as funções do GitHub estão funcionando.  
+
+Utilizei o fetch do próprio JavaScript para fazer a requisição a API.    
+
+[Link do Repositório](https://github.com/victorborzaquel/GitHubStatus)  
+<img src="https://github.com/victorborzaquel/GitHubStatus/blob/main/github/GitHubStatus.gif" width="200" />
+
 ## Dia 18: True Or False
 Aplicativo feito para quem quer entender como a comparação do JavaScript funciona.  
 Basta digitar o valor, escolher o tipo de dado e o operador que deseja usar na comparação.  
