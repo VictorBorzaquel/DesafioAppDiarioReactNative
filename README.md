@@ -1,6 +1,12 @@
 # Desafio App diario React Native
 <img src="./assets/DesafioAppDiarioReactNative.png" />
-Desafio de 88 dias onde estou criando 1 aplicativo todos os dias.  
+Desafio de 88 dias onde estou criando 1 aplicativo por dia.  
+
+## Dia 20: Roman to Decimal Converter
+Conversor de números Romanos e Decimais.  
+
+[Link do Repositório](https://github.com/victorborzaquel/RomantoDecimalConverter)  
+<img src="https://github.com/victorborzaquel/RomantoDecimalConverter/blob/main/github/RomantoDecimalConverter.gif" width="200" />
 
 ## Dia 19: GitHub Status
 Aplicativo para verificar se todas as funções do GitHub estão funcionando.  
